@@ -1,7 +1,0 @@
-package xyz.gokulnair.photoapp.userservice.service;
-
-public interface UserService {
-	
-	UserDto CreateUser(UserDto userDetails);
-
-}

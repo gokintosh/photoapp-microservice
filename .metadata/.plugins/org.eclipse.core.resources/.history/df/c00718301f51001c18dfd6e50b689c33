@@ -1,5 +1,0 @@
-package xyz.gokulnair.photoapp.userservice.ui.model;
-
-public class CreateUserRequestModel {
-
-}

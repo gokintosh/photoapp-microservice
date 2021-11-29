@@ -1,7 +1,0 @@
-package xyz.gokulnair.photoapp.userservice.data;
-
-import java.io.Serializable;
-
-public class UserEntity implements Serializable {
-
-}
