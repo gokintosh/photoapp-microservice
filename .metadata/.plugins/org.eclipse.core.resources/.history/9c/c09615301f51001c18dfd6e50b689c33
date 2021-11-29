@@ -1,0 +1,5 @@
+package xyz.gokulnair.photoapp.userservice.shared;
+
+public class UserDto {
+
+}

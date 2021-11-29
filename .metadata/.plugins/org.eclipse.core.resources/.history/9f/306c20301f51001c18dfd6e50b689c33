@@ -1,0 +1,5 @@
+package xyz.gokulnair.photoapp.userservice.service;
+
+public class UsersServiceImpl implements UserService {
+
+}

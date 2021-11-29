@@ -1,0 +1,5 @@
+package xyz.gokulnair.photoapp.userservice.service;
+
+public interface UserService {
+
+}

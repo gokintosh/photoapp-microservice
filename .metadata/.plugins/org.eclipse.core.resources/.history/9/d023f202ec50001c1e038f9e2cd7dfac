@@ -1,0 +1,13 @@
+package xyz.gokulnair.photoapp.accountmanager;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class PhotoAppAccountManagerApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(PhotoAppAccountManagerApplication.class, args);
+	}
+
+}

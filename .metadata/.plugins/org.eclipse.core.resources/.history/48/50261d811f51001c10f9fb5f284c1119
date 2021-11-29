@@ -1,0 +1,11 @@
+package xyz.gokulnair.photoapp.userservice.service;
+
+public class UsersServiceImpl implements UserService {
+
+	@Override
+	public UserDto CreateUser(UserDto userDetails) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}
